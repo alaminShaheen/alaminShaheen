@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript, Spring Boot, Java**
 
-- 📫 How to reach me [<img src="https://img.shields.io/badge/alaminshaheen-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="20" />](mailto:alaminshaheen23@gmail.com)
+- 📫 Reach me at - [<img src="https://img.shields.io/badge/alaminshaheen-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="20" />](mailto:alaminshaheen23@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 

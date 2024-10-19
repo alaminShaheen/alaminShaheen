@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Md Al Amin Shaheen</h1>
+<h1 align="center">Hola 👋, I'm Md Al Amin Shaheen</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-        - 🔭 I’m currently working on [Litespring](https://github.com/alaminShaheen/litespring)
+- 🔭 I’m currently working on [Litespring](https://github.com/alaminShaheen/litespring)
 
-        - 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **Spring boot**
 
-        - 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript, Spring Boot, Java**
+- 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript, Spring Boot, Java**
 
-        - 📫 How to reach me **alaminshaheen23@gmail.com**
+- 📫 How to reach me **alaminshaheen23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 

@@ -14,7 +14,7 @@
 
 [<img src="https://img.shields.io/badge/alaminshaheen-LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="20" />](https://www.linkedin.com/in/alaminshaheen/)
 
-## 🛠  Programming Languages
+## 🛠  Programming Languages & Tools
 
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" />][tech_tools_anchor]
@@ -23,9 +23,6 @@
         &nbsp;
 [<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="20" />][tech_tools_anchor]
         &nbsp;
-
-## 🛠  Frontend Technologies
-
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />][tech_tools_anchor]
@@ -42,9 +39,6 @@
         &nbsp;
 [<img src="https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325" alt="Jest logo" title="Jest" height="20" />][tech_tools_anchor]
         &nbsp;
-
-## 🛠  Backend Technologies
-
 [<img src="https://img.shields.io/badge/Nodejs-282C34?logo=nodedotjs&logoColor=5FA04E" alt="Nodejs logo" title="Nodejs" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="Express logo" title="Express" height="20" />][tech_tools_anchor]
@@ -54,11 +48,7 @@
 [<img src="https://img.shields.io/badge/SpringBoot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring boot logo" title="Spring Boot" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" alt="FastAPI logo" title="FastAPI" height="20" />][tech_tools_anchor]
-
-<a name="learning-next"></a>
-
-## 📀  Databases
-
+        &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Mongodb-282C34?logo=mongodb&logoColor=47A248" alt="MongoDb logo" title="MongoDb" height="20" />][tech_tools_anchor]
@@ -68,40 +58,12 @@
 [<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Redis-282C34?logo=redis&logoColor=FF4438" alt="Redis logo" title="Redis" height="20" />][tech_tools_anchor]
-
-## 🚚  APIs & Web Services
-
-[<img src="https://img.shields.io/badge/Swagger-282C34?logo=swagger&logoColor=85EA2D" alt="Swagger logo" title="Swagger" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/OpenAPI-282C34?logo=openapiinitiative&logoColor=6BA539" alt="OpenAPI logo" title="OpenAPI" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Postman-282C34?logo=postman&logoColor=FF6C37" alt="Postman Logo" title="Postman" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" alt="Insomnia Logo" title="Insomnia" height="20" />][tech_tools_anchor]
         &nbsp;
-[<img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=4479A1" alt="MySQL logo" title="MySQL" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Auth0-282C34?logo=auth0&logoColor=EB5424" alt="Auth0 logo" title="Auth0" height="20" />][tech_tools_anchor]
-
-## 🪛  Tools & Services
-
-[<img src="https://img.shields.io/badge/Webstorm-282C34?logo=webstorm&logoColor=000000" alt="Webstorm logo" title="Webstorm" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Pycharm-282C34?logo=pycharm&logoColor=000000" alt="Pycharm logo" title="Pycharm" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Intellij Idea-282C34?logo=intellijidea&logoColor=000000" alt="Intellij Logo" title="Intellij" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="20" />][tech_tools_anchor]
-        &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="20" />][tech_tools_anchor]
-
-## ⏭  Version Control
-
-[<img src="https://img.shields.io/badge/Github-282C34?logo=github&logoColor=181717" alt="Github logo" title="Github" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Bitbucket-282C34?logo=bitbucket&logoColor=0052CC" alt="Bitbucket logo" title="Bitbucket" height="20" />][tech_tools_anchor]
-        &nbsp;
-[<img src="https://img.shields.io/badge/Gitlab-282C34?logo=gitlab&logoColor=FC6D26" alt="Gitlab Logo" title="Gitlab" height="20" />][tech_tools_anchor]
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now

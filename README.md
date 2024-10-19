@@ -1,13 +1,13 @@
 <h1 align="center">Hola 👋, I'm Md Al Amin Shaheen</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🔭 I’m currently working on [Litespring](https://github.com/alaminShaheen/litespring)
+- 🔭 I’m currently completing my masters in <a href="https://laurentian.ca/">Laurentian University</a>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m passionate about web development and software engineering
 
 - 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript, Spring Boot, Java**
 
-- 📫 How to reach me **alaminshaheen23@gmail.com**
+- 📫 How to reach me [<img src="https://img.shields.io/badge/alaminshaheen-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="20" />](mailto:alaminshaheen23@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 

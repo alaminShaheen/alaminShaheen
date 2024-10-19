@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Md Al Amin Shaheen</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🔭 I’m currently completing my masters in <a href="https://laurentian.ca/">Laurentian University</a>
+- 🎓 Computer Engineering graduate student at <a href="https://laurentian.ca/">Laurentian University</a>.
 
 - 🌱 I’m passionate about web development and software engineering
 

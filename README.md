@@ -1,11 +1,13 @@
 <h1 align="center">Hola 👋, I'm Md Al Amin Shaheen</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🎓 Computer Engineering graduate student at <a href="https://laurentian.ca/">Laurentian University</a>.
+- 🔨 Currently working as a software engineer ata <a href="https://www.astralforminc.com/">Astralform</a>.
+
+- 🎓 Computer Engineering graduate from <a href="https://laurentian.ca/">Laurentian University</a>.
 
 - 🌱 I’m passionate about web development and software engineering
 
-- 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript, Spring Boot, Java**
+- 💬 Ask me about **Web Development, React, Node, TypeScript, JavaScript**
 
 - 📫 Reach me at - [<img src="https://img.shields.io/badge/alaminshaheen-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="20" />](mailto:alaminshaheen23@gmail.com)
 
@@ -25,7 +27,7 @@
         &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="20" />][tech_tools_anchor]
         &nbsp;
-[<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="20" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/CSS-282C34?logo=css&logoColor=6C399C" alt="CSS3 logo" title="CSS3" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" />][tech_tools_anchor]
         &nbsp;
@@ -45,8 +47,6 @@
         &nbsp;
 [<img src="https://img.shields.io/badge/Nestjs-282C34?logo=nestjs&logoColor=E0234E" alt="Nestjs" title="Nestjs" height="20" />][tech_tools_anchor]
         &nbsp;
-[<img src="https://img.shields.io/badge/SpringBoot-282C34?logo=springboot&logoColor=6DB33F" alt="Spring boot logo" title="Spring Boot" height="20" />][tech_tools_anchor]
-        &nbsp;
 [<img src="https://img.shields.io/badge/FastAPI-282C34?logo=fastapi&logoColor=009688" alt="FastAPI logo" title="FastAPI" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" alt="PostgreSQL logo" title="PostgreSQL" height="20" />][tech_tools_anchor]
@@ -64,6 +64,12 @@
 [<img src="https://img.shields.io/badge/Insomnia-282C34?logo=insomnia&logoColor=4000BF" alt="Insomnia Logo" title="Insomnia" height="20" />][tech_tools_anchor]
         &nbsp;
 [<img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=2496ED" alt="Docker logo" title="Docker" height="20" />][tech_tools_anchor]
+        &nbsp;
+[<img src="https://img.shields.io/badge/Cloudflare-282C34?logo=cloudflare" alt="Cloudflare logo" title="Cloudflare" height="20" />][tech_tools_anchor]
+        &nbsp;
+[<img src="https://img.shields.io/badge/Vite-282C34?logo=vite" alt="Vite logo" title="Vite" height="20" />][tech_tools_anchor]
+        &nbsp;
+[<img src="https://img.shields.io/badge/Vitest-282C34?logo=vitest" alt="Vite logo" title="Vite" height="20" />][tech_tools_anchor]
 
 [tech_tools_anchor]: https://github.com/alaminShaheen
 [learning_now_anchor]: #learning-now

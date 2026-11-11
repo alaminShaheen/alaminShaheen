@@ -11,6 +11,8 @@
 
 - 📫 Reach me at - [<img src="https://img.shields.io/badge/alaminshaheen-Gmail-282C34?logo=gmail&logoColor=EA4335" alt="Gmail logo" title="Gmail" height="20" />](mailto:alaminshaheen23@gmail.com)
 
+- Portfolio - <a href="https://alaminshaheen.com/">alaminshaheen.com</a>
+
 <h3 align="left">Connect with me:</h3>
 
 

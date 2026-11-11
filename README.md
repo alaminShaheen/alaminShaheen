@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, I'm Md Al Amin Shaheen</h1>
 <h3 align="center">A passionate software engineer from Canada</h3>
 
-- 🔨 Currently working as a software engineer ata <a href="https://www.astralforminc.com/">Astralform</a>.
+- 🔨 Currently working as a software engineer at <a href="https://www.astralforminc.com/">Astralform</a>.
 
 - 🎓 Computer Engineering graduate from <a href="https://laurentian.ca/">Laurentian University</a>.
 
